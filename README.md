@@ -6,5 +6,5 @@ This project demonstrates how to design and build a data warehouse and use it to
 
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
 
-
+![Data Architecture](./diagram.png)
 
