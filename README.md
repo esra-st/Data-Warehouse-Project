@@ -13,15 +13,18 @@ Silver Layer: This layer includes data cleansing, standardization, and normaliza
 Gold Layer: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
 # 📖 Project Overview
+```text
 This project involves:
 
  1.Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
  2.ETL Pipelines: Extracting, transforming, and loading data from source systems into the warehouse.
  3.Data Modeling: Developing fact and dimension tables optimized for analytical queries.
  4.Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
+```
 
 
 # 🛠️ Important Links & Tools:
+```text
 
 
 -Datasets: Access to the project dataset (csv files).
@@ -31,6 +34,7 @@ This project involves:
 -DrawIO: Design data architecture, models, flows, and diagrams.
 -Notion: Get the Project Template from Notion
 -Notion Project Steps: Access to All Project Phases and Tasks.
+```
 
 
 # 🚀 Project Requirements
